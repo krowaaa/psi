@@ -1,0 +1,124 @@
+body {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+header {
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+nav {
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+main {
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 67.4%;
+}
+article {
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+figure {
+    border-style: solid;
+    border-color: pink;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 150px;
+}
+figcaption {
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 150px;
+}
+footer{
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+section {
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+time {
+    border-style: solid;
+    border-color: darkred;
+    border-width: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+aside {
+    border-style: solid;
+    border-color: gray;
+    border-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 30%;
+    height: 773px;
+    float: right;
+    margin-top: 76px;
+}
+
+.s1 {
+    height: 38px;
+}
+.g1 {
+    width: 150px;
+}
+.g2 {
+    width: 150px;
+    float: left;
+}
+.f1 {
+    width: 150px;
+    float: left;
+}
+.f2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.a1 {
+    border-color: yellow;
+    width: 150px;
+    float: left;
+}
