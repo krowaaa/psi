@@ -26,10 +26,10 @@ int main()
                         }
                 else 
                         {
-                            cout << "Podaj odpowiedz: "<< endl;
                             b=text[1];
                             do 
                                 {
+                                    cout << "Podaj a, b, c lub d: "<< endl;
                                     cin>>a;
                                     if (a==b)
                                         {
