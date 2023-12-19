@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    ifstream plik("pytania.txt");
+    ifstream plik("quiz.txt");
     string text;
     string a;
     string b;
